@@ -1172,6 +1172,7 @@
 | [CSS buttons](https://getcssscan.com/css-buttons-examples)| 84 Beautiful CSS buttons examples. |
 | [CSS box-shadow](https://getcssscan.com/css-box-shadow-examples)| 91 Beautiful CSS box-shadow examples. |
 | [Super Designer](https://superdesigner.co)| Design tools that give you super powers. |
+| [Codementor Evetns](https://www.codementor.io/events) | A developer community and virtual events platform where developers learn and share new tools, technical concepts, and career tips. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
